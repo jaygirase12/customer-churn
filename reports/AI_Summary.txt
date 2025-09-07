@@ -1,0 +1,32 @@
+##AI Summary
+
+## Prompt 1:“Explain these sales/churn dashboard visuals in plain English and suggest 3 business recommendations.”
+
+## AI Response:
+# ✅ Business Recommendations
+
+1. 🆕 **Strengthen Onboarding**  
+   Provide better onboarding, discounts, and support in the **first 12 months** to reduce early churn.  
+
+2. 📄 **Promote Long-term Contracts**  
+   Incentivize customers with **discounts on 2-year contracts** to lock in retention.  
+
+3. 💡 **Targeted Retention Campaigns**  
+   Identify **high-value male customers** at risk and run loyalty or reward programs to prevent revenue leakage. 
+
+## Prompt 2:“Summarize my churn dashboard in 4–5 points. Highlight main churn drivers and recommend actions.”
+
+## AI Response:
+# 📊 Customer Churn Dashboard Summary
+
+1. 👥 **Customer Base**: Total 3,168 customers, with 214 churned → **6.8% churn rate**.  
+2. 💰 **Revenue Impact**: Approx. **$18.3K lost per month** due to churn.  
+3. ⏳ **Tenure Insights**: 
+   - Highest churn in **0–12 months (new joiners)**.  
+   - Another spike around **37–48 months**.  
+4. 📄 **Contract Type Effect**:  
+   - **1-year contracts churn more** than 2-year contracts.  
+   - Longer commitments reduce churn risk.  
+5. 👨‍💼 **Revenue by Gender**:  
+   - Male churn has slightly higher financial impact ($9.8K vs. $8.5K).
+ 
